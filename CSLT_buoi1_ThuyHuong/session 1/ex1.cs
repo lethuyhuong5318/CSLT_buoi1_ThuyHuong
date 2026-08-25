@@ -2,9 +2,9 @@
 
 namespace CSLT_ThuyHuong
 {
-class Program
+    class Program
     {
-      
+
         static void ex01()
         {
             double c;
@@ -30,7 +30,7 @@ class Program
             Console.WriteLine($"fahrenheit = {f}\n");
         }
 
-       
+
         static void ex02()
         {
             double radius;
@@ -58,7 +58,7 @@ class Program
 
 
 
-     
+
         static void Main(string[] args)
         {
             Console.WriteLine("-- BAI 1 --");
