@@ -261,7 +261,6 @@ namespace BaiTapBuoi2
 
             Console.WriteLine("Họ: " + ho + " | Tên đệm: " + tenDem + " | Tên: " + ten);
 
-            // Cách làm mất dấu đơn giản cho newbie (dùng Replace tay)
             string userGoc = (ten + "." + ho + tenDem.Replace(" ", "")).ToLower();
             string userKhongDau = userGoc
                 .Replace("á", "a").Replace("à", "a").Replace("ả", "a").Replace("ã", "a").Replace("ạ", "a")
