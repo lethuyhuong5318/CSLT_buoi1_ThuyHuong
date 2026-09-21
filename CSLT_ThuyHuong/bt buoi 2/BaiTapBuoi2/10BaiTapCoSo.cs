@@ -1,8 +1,10 @@
 using System;
 using System.Text;
 
-class Program
+namespace CSLT_ThuyHuong.BtapBuoi2
 {
+    class Program
+    {
     static void Main(string[] args)
     {
         Console.OutputEncoding = Encoding.UTF8;
@@ -498,4 +500,5 @@ class Program
 
         Console.WriteLine($"Phí gửi xe {loaiXeHienThi} ({thoiGianHienThi}): {phi:N0} VNĐ");
     }
+}
 }
