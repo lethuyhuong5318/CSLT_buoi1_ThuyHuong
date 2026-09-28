@@ -1,0 +1,15 @@
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\bin\Debug\net10.0\CSLT_ThuyHuong.exe
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\bin\Debug\net10.0\CSLT_ThuyHuong.deps.json
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\bin\Debug\net10.0\CSLT_ThuyHuong.runtimeconfig.json
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\bin\Debug\net10.0\CSLT_ThuyHuong.dll
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\bin\Debug\net10.0\CSLT_ThuyHuong.pdb
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.AssemblyInfoInputs.cache
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.AssemblyInfo.cs
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.csproj.CoreCompileInputs.cache
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.sourcelink.json
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.dll
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\refint\CSLT_ThuyHuong.dll
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.pdb
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.genruntimeconfig.cache
+D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\ref\CSLT_ThuyHuong.dll

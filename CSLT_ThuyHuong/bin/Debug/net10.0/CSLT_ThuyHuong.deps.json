@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CSLT_ThuyHuong/1.0.0": {
+        "runtime": {
+          "CSLT_ThuyHuong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSLT_ThuyHuong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSLT_ThuyHuong.BtapFunction.Program</StartupObject>
+    <StartupObject>CSLT_ThuyHuong.BtapMang.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
