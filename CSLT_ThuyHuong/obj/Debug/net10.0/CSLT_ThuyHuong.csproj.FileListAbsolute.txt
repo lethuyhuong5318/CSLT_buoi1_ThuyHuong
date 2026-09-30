@@ -13,3 +13,11 @@ D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\refint\CSL
 D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.pdb
 D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.genruntimeconfig.cache
 D:\C# sharp ueh\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\ref\CSLT_ThuyHuong.dll
+C:\Users\UEH\source\repos\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UEH\source\repos\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.AssemblyInfoInputs.cache
+C:\Users\UEH\source\repos\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.AssemblyInfo.cs
+C:\Users\UEH\source\repos\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.csproj.CoreCompileInputs.cache
+C:\Users\UEH\source\repos\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.sourcelink.json
+C:\Users\UEH\source\repos\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.dll
+C:\Users\UEH\source\repos\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\refint\CSLT_ThuyHuong.dll
+C:\Users\UEH\source\repos\CSLT_buoi1_ThuyHuong\CSLT_ThuyHuong\obj\Debug\net10.0\CSLT_ThuyHuong.pdb
